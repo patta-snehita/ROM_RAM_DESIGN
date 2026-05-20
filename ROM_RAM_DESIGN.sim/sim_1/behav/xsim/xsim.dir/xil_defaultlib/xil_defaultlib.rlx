@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sim_1/new/ram_tb.v,1778345518,verilog,,,,ram_tb,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sim_1/new/rom_tb.v,1778343406,verilog,,,,rom_tb,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sources_1/new/ram.v,1778344857,verilog,,C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sim_1/new/ram_tb.v,,ram,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sources_1/new/rom.v,1778343416,verilog,,C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sim_1/new/rom_tb.v,,rom,,,../../../../../../2025.2/Vivado/data/rsb/busdef,,,,,

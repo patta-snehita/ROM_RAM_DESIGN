@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Time=0 Wr_en=0 Address= 0 Data_In=00 Data_Out=54
+Time=10000 Wr_en=1 Address= 0 Data_In=aa Data_Out=54
+Time=15000 Wr_en=1 Address= 0 Data_In=aa Data_Out=aa
+Time=20000 Wr_en=1 Address= 1 Data_In=55 Data_Out=62
+Time=25000 Wr_en=1 Address= 1 Data_In=55 Data_Out=55
+Time=30000 Wr_en=1 Address= 2 Data_In=f0 Data_Out=43
+Time=35000 Wr_en=1 Address= 2 Data_In=f0 Data_Out=f0
+Time=40000 Wr_en=0 Address= 2 Data_In=f0 Data_Out=f0
+Time=50000 Wr_en=0 Address= 0 Data_In=f0 Data_Out=aa
+Time=60000 Wr_en=0 Address= 1 Data_In=f0 Data_Out=55
+Time=70000 Wr_en=0 Address= 2 Data_In=f0 Data_Out=f0
+$finish called at time : 80 ns : File "C:/Users/snehi/OneDrive/Desktop/Secure_Electronic_VotingMachine/ROM_RAM_DESIGN/ROM_RAM_DESIGN.srcs/sim_1/new/ram_tb.v" Line 53
